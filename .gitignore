@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs
+/src/Libraries/CRM.Sigma.Core/obj
+/src/Presentation/CRM.Sigma.API/obj
+/src/Libraries/CRM.Sigma.Data/obj
+/src/Libraries/CRM.Sigma.Services/obj
+/src/Tests/CRM.Sigma.Tests/obj
