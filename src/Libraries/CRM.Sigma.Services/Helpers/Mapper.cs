@@ -9,6 +9,7 @@ namespace CRM.Sigma.Services.Helpers
         public CustomMapper() 
         {
             CreateMap<CandidateModel, Candidate>();
+            CreateMap<Candidate, CandidateModel>();
         }
     }
 }
