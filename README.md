@@ -1,3 +1,4 @@
+I use UnitOfWork and Repository design patterns for this project.
 The application contains 2 API endpoint which in future will be used 
 by other application(s) with UI. 
 "api/candidate/create" - this endpoint for creating candidate, if already exist this email update it. 
