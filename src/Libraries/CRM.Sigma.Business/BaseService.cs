@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using CRM.Sigma.Data;
 
-namespace CRM.Sigma.Services
+namespace CRM.Sigma.Business
 {
     public abstract class BaseService
     {

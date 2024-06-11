@@ -20,7 +20,7 @@
     <Folder Include="CRM.Sigma.API.Tests\" />
     <Folder Include="CRM.Sigma.Core.Tests\" />
     <Folder Include="CRM.Sigma.Data.Tests\" />
-    <Folder Include="CRM.Sigma.Services.Tests\" />
+    <Folder Include="CRM.Sigma.Business.Tests\" />
   </ItemGroup>
 
 </Project>

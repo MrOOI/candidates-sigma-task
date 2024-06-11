@@ -3,10 +3,10 @@ using AutoMapper.QueryableExtensions;
 using CRM.Sigma.Core.Utilities.Listing;
 using CRM.Sigma.Data;
 using CRM.Sigma.Data.Domain.Candidates;
-using CRM.Sigma.Services.Models.CandidateModels;
+using CRM.Sigma.Business.Models.CandidateModels;
 using Microsoft.IdentityModel.Tokens;
 
-namespace CRM.Sigma.Services.Candidates
+namespace CRM.Sigma.Business.Candidates
 {
     /// <summary>
     /// Represents candidate service methods

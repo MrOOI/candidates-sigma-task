@@ -1,9 +1,9 @@
 ﻿using CRM.Sigma.Data.Context;
 using CRM.Sigma.Data;
-using CRM.Sigma.Services.Candidates;
+using CRM.Sigma.Business.Candidates;
 using AutoMapper;
 
-namespace CRM.Sigma.Services
+namespace CRM.Sigma.Business
 {
     public class Services : IService
     {

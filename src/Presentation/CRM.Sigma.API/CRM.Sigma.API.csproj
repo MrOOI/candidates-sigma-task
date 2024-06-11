@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Libraries\CRM.Sigma.Data\CRM.Sigma.Data.csproj" />
+    <ProjectReference Include="..\..\Libraries\CRM.Sigma.Business\CRM.Sigma.Business.csproj" />
   </ItemGroup>
 
 </Project>

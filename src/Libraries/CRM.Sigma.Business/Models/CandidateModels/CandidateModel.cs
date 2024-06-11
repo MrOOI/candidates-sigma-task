@@ -1,4 +1,4 @@
-﻿namespace CRM.Sigma.Services.Models.CandidateModels
+﻿namespace CRM.Sigma.Business.Models.CandidateModels
 {
     /// <summary>
     /// Represents a candidate model

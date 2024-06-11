@@ -13,3 +13,5 @@
 /src/Presentation/CRM.Sigma.API/bin/Debug/net7.0
 /src/Tests/CRM.Sigma.Tests/bin/Debug/net7.0
 /src/Libraries/CRM.Sigma.Services/bin/Debug/net7.0
+/src/Libraries/CRM.Sigma.Business/bin/Debug/net7.0
+/src/Libraries/CRM.Sigma.Business/obj

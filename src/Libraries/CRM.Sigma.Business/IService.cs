@@ -1,6 +1,6 @@
-﻿using CRM.Sigma.Services.Candidates;
+﻿using CRM.Sigma.Business.Candidates;
 
-namespace CRM.Sigma.Services
+namespace CRM.Sigma.Business
 {
     public interface IService
     {

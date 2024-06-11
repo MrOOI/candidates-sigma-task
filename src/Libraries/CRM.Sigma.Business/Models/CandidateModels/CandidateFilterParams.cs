@@ -1,6 +1,6 @@
 ﻿using CRM.Sigma.Core.Utilities.Listing;
 
-namespace CRM.Sigma.Services.Models.CandidateModels
+namespace CRM.Sigma.Business.Models.CandidateModels
 {
     public class CandidateFilterParams : QueryStringParameters
     {

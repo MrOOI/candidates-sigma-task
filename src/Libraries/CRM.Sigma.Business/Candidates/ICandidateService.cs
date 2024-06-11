@@ -1,7 +1,7 @@
 ﻿using CRM.Sigma.Core.Utilities.Listing;
-using CRM.Sigma.Services.Models.CandidateModels;
+using CRM.Sigma.Business.Models.CandidateModels;
 
-namespace CRM.Sigma.Services.Candidates
+namespace CRM.Sigma.Business.Candidates
 {
 
     /// <summary>
