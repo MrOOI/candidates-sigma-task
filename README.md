@@ -1,4 +1,4 @@
-The application should contain 2 API endpoint which in future will be used 
+The application contains 2 API endpoint which in future will be used 
 by other application(s) with UI. 
 "api/candidate/create" - this endpoint for creating candidate, if already exist this email update it. 
 "api/candidates/get-all" - this endpoint for getting all candidates according to filter parameters. 
