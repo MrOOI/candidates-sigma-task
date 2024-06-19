@@ -6,3 +6,4 @@ by other application(s) with UI.
 This project was built in 4 days and it takes time about 10 hours. 
 
 I did not have time to implement fully the caching, logging, and test parts due to the close of the given deadline. 
+Also need to add Exception handling.
